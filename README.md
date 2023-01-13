@@ -7,4 +7,4 @@
 2- Ridge, Lasso and Elastic-Net Regression \
 3- Logistic Regression \
 4- Support Vector Classifier and Regressor \
-5- Decision Tree Classifier
+5- Decision Tree Classifier and Regressor
