@@ -1,6 +1,6 @@
 # About This Repo:
 1- I am learning machine learning concepts and uploading its implementation. \
-2- Each post includes EDA , FE and ML model.
+2- Each post includes EDA , FE and required ML model.
 
 # Algorithms :
 1- Linear Regression \
